@@ -22,7 +22,7 @@ SimpleLog is a simple, "drop-and-play" plugin that automatically logs key server
 - Zero Configuration: No setup required. Just drop it into your plugins folder and it works.
 
 ## Installation
-1. Download the latest SimpleLog-vx.x-x.jar from the Releases page.
+1. Download the latest SimpleLog-v x.x-x.jar from the Releases page.
 
 2. Place the downloaded .jar file into your server's /plugins directory.
 
