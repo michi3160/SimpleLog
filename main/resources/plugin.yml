@@ -1,6 +1,0 @@
-name: SimpleLog
-version: 1.0-alpha
-main: com.example.simplelog.SimpleLog
-api-version: '1.21'
-author: YourName
-description: A simple plugin to log server activities.
